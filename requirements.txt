@@ -1,0 +1,17 @@
+pandas 
+numpy 
+matplotlib 
+seaborn 
+plotly 
+langchain 
+sentence-transformers 
+faiss-cpu 
+chromadb 
+huggingface_hub 
+gradio 
+streamlit 
+scikit-learn 
+jupyter 
+notebook
+nltk 
+regex
