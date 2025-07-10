@@ -116,4 +116,3 @@ screenshots/
 Limitations and Future Improvements
 
 Limited Answer Quality: The distilgpt2 LLM produces incoherent answers due to its small size. Using a larger model (e.g., mistralai/Mixtral-8x7B-Instruct-v0.1) on a cloud platform would improve coherence.
-**Sample
